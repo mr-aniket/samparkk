@@ -19,6 +19,7 @@ body {
     background: var(--dark-bg);
     a {
         cursor: default;
+        text-decoration: none;
     }
 }
 
